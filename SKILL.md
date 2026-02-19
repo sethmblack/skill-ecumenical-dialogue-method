@@ -4,7 +4,8 @@ description: Systematically bridge divides between traditions, communities, or p
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3873
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ecumenical-dialogue-method
 - structure
